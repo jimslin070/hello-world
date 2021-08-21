@@ -1,2 +1,3 @@
-# hello-world
-this is my first repository for test
+Hi Eveyboy,
+
+My name is Jims,nice to be here with all of you.
